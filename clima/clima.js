@@ -8,6 +8,7 @@ const getClima = async (lat, lng) => {
 
 }
 
+
 module.exports = {
   getClima
 }
